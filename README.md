@@ -1,11 +1,3 @@
-This is the official demo app which can be installed via `npm create svelte@latest .`.
-
-Switched to adapter-node (https://kit.svelte.dev/docs/adapter-node).
-
-Just created this demo repository to look up example code and use it for hosting examples. See https://kit.svelte.dev/ for all information.
-
-<hr>
-
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
