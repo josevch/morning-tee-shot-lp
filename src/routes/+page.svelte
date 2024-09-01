@@ -1,5 +1,5 @@
 <script>
-	import photo from '$lib/assets/josevonchong.jpg';
+	import imageUrl  from '$lib/assets/josevonchong.jpg';
 </script>
 
 <div class=" h-screen w-screen grid grid-cols-[16px_1fr_16px] grid-rows-[64px_200px_auto_auto_64px] gap-y-8  justify-items-center ">
@@ -7,13 +7,13 @@
         <div class="ring-primary ring-offset-base-100 w-auto h-[200px]  rounded-full ring ring-offset-2 ">
      
     
-            <img src={photo} alt="Jose Von Chong Reina" class="object-top"  >
+            <img src={imageUrl} alt="Jose Von Chong Reina" class="object-top"  >
 
         </div>
     </div>
     <article class="prose col-start-2 row-start-3 justify-center">
         <h1 class="text-info font-bold text-3xl   text-center">Hi, i'm<br> <span class="text-primary"> José A. Von Chong Reina</span></h1>
-        <h2 class="text-center text-white">Frontend web content developer based in Panama City</h2>
+        <h2 class="text-center font-normal text-white">Frontend web content developer based in<br><strong> Panama City, Panama</strong></h2>
     </article>
 
     <div class=" col-start-2 row-start-4 self-end prose justify-center">

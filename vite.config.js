@@ -5,7 +5,10 @@ import { enhancedImages } from '@sveltejs/enhanced-img';
 
 export default defineConfig({
 	plugins: [enhancedImages(),sveltekit()],
+
+	assetsInclude: ['**/*.png', '**/*.jpg', '**/*.svg'],
 	test: {
 		include: ['src/**/*.{test,spec}.{js,ts}']
+
 	}
 });
