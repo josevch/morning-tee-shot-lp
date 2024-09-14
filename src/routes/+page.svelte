@@ -2,13 +2,10 @@
 	import imageUrl  from '$lib/assets/josevonchong.jpg';
 </script>
 
-<div class=" h-screen w-screen grid grid-cols-[16px_1fr_16px] grid-rows-[64px_200px_auto_auto_64px] gap-y-8  justify-items-center ">
+<div class="grid grid-cols-[16px_1fr_16px] grid-rows-[16px_250px_200px_auto_16px] gap-y-8  justify-items-center ">
     <div class="avatar col-start-2  row-start-2  h-auto w-auto justify-center ">
         <div class="ring-primary ring-offset-base-100 w-auto h-[200px]  rounded-full ring ring-offset-2 ">
-     
-    
             <img src={imageUrl} alt="Jose Von Chong Reina" class="object-top"  >
-
         </div>
     </div>
     <article class="prose col-start-2 row-start-3 justify-center">
@@ -77,7 +74,7 @@
 
     <footer class="col-start-2 row-start-5">
       <p class="text-center">
-          Crafted with 💖 © 2024<br>Jose Andrés Von Chong Reina
+          Crafted with 💖<br> © 2024 Jose Andrés Von Chong Reina
       </p>
   </footer>
 

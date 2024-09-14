@@ -1,11 +1,16 @@
 <script>
     import "../app.css";
-  </script>
-  
-  <div class="w-screen h-screen ">
-    <slot />
+import Header from "$lib/components/Header/Header.svelte";
 
-  </div>
+  </script>
+
+<Header></Header>
+  
+
+<main>
+    <slot />
+  </main>
+
     
   
  
