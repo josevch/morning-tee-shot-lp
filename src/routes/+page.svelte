@@ -12,8 +12,8 @@
         </div>
     </div>
     <article class="prose col-start-2 row-start-3 justify-center">
-        <h1 class="text-info font-bold text-3xl   text-center">Hi, i'm<br> <span class="text-primary"> José A. Von Chong Reina</span></h1>
-        <h2 class="text-center font-normal text-white">Frontend web content developer based in<br><strong> Panama City, Panama</strong></h2>
+        <h1 class="text-info font-bold text-3xl  text-center"><span class="text-neutral">Hi, i'm</span><br> <span class="text-primary"> José A. Von Chong Reina</span></h1>
+        <h2 class="text-center font-normal text-white">Frontend web content developer based in<br><strong><span class="text-neutral">Panama City, Panama</span> </strong></h2>
     </article>
 
     <div class=" col-start-2 row-start-4 self-end prose justify-center">
@@ -76,10 +76,10 @@
     </div>
 
     <footer class="col-start-2 row-start-5">
-        <p class="text-center">
-            Crafted with 💖 © 2024<br>Jose Andrés Von Chong Reina
-        </p>
-    </footer>
+      <p class="text-center">
+          Crafted with 💖 © 2024<br>Jose Andrés Von Chong Reina
+      </p>
+  </footer>
 
 </div>
 

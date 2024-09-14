@@ -13,7 +13,7 @@ export default {
       {
         mytheme: {
           
-"primary": "FFDC7F",
+"primary": "E8E30F",
           
 "secondary": "#227b94",
           
@@ -21,13 +21,13 @@ export default {
           
 "neutral": "#fff",
           
-"base-100": "#16325b",
+"base-100": "#205867",
           
 "info": "#78b7d0",
           
 "success": "#00ff00",
           
-"warning": "#ffdc7f",
+"warning": "#E8E30F",
           
 "error": "#ff0000",
           },
